@@ -1,1 +1,1 @@
-https://xerpclient.github.io//rsschool-cv/
+https://xerpclient.github.io/rsschool-cv/
